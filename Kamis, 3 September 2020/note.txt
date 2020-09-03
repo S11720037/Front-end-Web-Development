@@ -1,0 +1,6 @@
+CSS digunakan untuk memberikan gaya pada halaman HTML.
+
+Tipe selector dasar:
+- Type selector
+- Id selector
+- Class selector
