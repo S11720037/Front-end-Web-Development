@@ -1,0 +1,9 @@
+Ryan Dahl menggunakan engine yang memungkinkan javascript berjalan di sisi server.
+
+Dengan electronjs kita bisa membuat aplikasi desktop menggunakan html, css, dan javascript.
+
+JavaScript Engine
+- V8 - Google Chrome
+- V8 - nodejs
+- SpiderMonkey - Mozilla
+
